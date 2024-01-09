@@ -26,5 +26,3 @@ Combine<br>
 <br>
 This project was an incredible learning journey, allowing me to strengthen my skills in mobile app development and user interface design. I look forward to applying these experiences and skills in future projects and endeavors.<br>
 <br>
-Feel free to check out the GitHub repository for a closer look at the code and development process.<br>
-<br>
