@@ -22,6 +22,7 @@ SwiftUI<br>
 Firebase for real-time data updates and user authentication<br>
 PhotosUI<br>
 KingFisher<br>
+Combine<br>
 <br>
 This project was an incredible learning journey, allowing me to strengthen my skills in mobile app development and user interface design. I look forward to applying these experiences and skills in future projects and endeavors.<br>
 <br>
